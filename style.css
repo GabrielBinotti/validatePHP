@@ -1,0 +1,38 @@
+.card
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 1px solid black;
+    text-align: right;
+    border-radius: 5%;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+}
+
+.card-shadow
+{
+    box-shadow: 2px 2px 2px 2px gray;
+}
+
+.input-form
+{
+    border-radius: 6px;
+    margin-bottom: 15px;
+    height: 30px;
+    border: 0.5px solid grey;
+
+}
+
+.btn-form
+{
+    width: 100%;
+    height: 40px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 6px;
+}
